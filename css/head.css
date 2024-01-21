@@ -1,0 +1,30 @@
+.headmenu{
+    display: flex;
+    background-color: #153e52;
+    padding: 15px;
+    margin: 0;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+
+}
+.headmenu div.headright{
+    display: flex;
+    justify-content: end;
+    flex: 1;
+}
+.headmenu div.headleft{
+    margin-left: 10px;
+    color: white;
+}
+.headmenu li{
+    list-style-type: none;
+    color: white;
+    margin-left: 0;
+}
+.headmenu a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
