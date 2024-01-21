@@ -1,5 +1,12 @@
 .backgroundim{
     text-align: center;
     padding-top: 200px;
-    background-image: url(about.jpg);
+    background-image: url(../images/about.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.disc{
+    background-color: #029e62;
+    border-radius: 10px;
 }
